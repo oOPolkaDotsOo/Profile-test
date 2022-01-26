@@ -1,0 +1,18 @@
+body {
+    background-color: darkgray;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  h2 {
+    color: gray;
+    text-align: center;
+  }
+  
+  p {
+    color: whitesmoke;
+    font-family: verdana;
+    font-size: 20px;
+  }
